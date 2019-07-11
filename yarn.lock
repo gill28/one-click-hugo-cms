@@ -20,7 +20,7 @@
   dependencies:
     "@babel/types" "7.0.0-beta.44"
     jsesc "^2.5.1"
-    lodash "^4.2.0"
+    lodash "^4.5.0"
     source-map "^0.5.0"
     trim-right "^1.0.1"
 
@@ -79,7 +79,7 @@
     "@babel/code-frame" "7.0.0-beta.44"
     "@babel/types" "7.0.0-beta.44"
     babylon "7.0.0-beta.44"
-    lodash "^4.2.0"
+    lodash "^4.5.0"
 
 "@babel/traverse@7.0.0-beta.44":
   version "7.0.0-beta.44"
@@ -94,14 +94,14 @@
     debug "^3.1.0"
     globals "^11.1.0"
     invariant "^2.2.0"
-    lodash "^4.2.0"
+    lodash "^4.5.0"
 
 "@babel/types@7.0.0-beta.44":
   version "7.0.0-beta.44"
   resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.0.0-beta.44.tgz#6b1b164591f77dec0a0342aca995f2d046b3a757"
   dependencies:
     esutils "^2.0.2"
-    lodash "^4.2.0"
+    lodash "^4.5.0"
     to-fast-properties "^2.0.0"
 
 "@babel/types@^7.0.0":
